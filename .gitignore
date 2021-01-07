@@ -1,0 +1,10 @@
+/.metadata
+/.git
+/files
+/lost
+/resourceserver
+/authserver/.classpath
+/authserver/.project
+/authserver/target
+/authserver/bin
+/authserver/.settings
