@@ -12,4 +12,4 @@
 /resourceserver/target
 /resourceserver/bin
 /resourceserver/.settings
-.gitignore
+/.gitignore
