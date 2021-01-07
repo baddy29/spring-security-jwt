@@ -2,9 +2,14 @@
 /.git
 /files
 /lost
-/resourceserver
 /authserver/.classpath
 /authserver/.project
 /authserver/target
 /authserver/bin
 /authserver/.settings
+/resourceserver/.classpath
+/resourceserver/.project
+/resourceserver/target
+/resourceserver/bin
+/resourceserver/.settings
+.gitignore
