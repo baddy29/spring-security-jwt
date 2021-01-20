@@ -13,3 +13,4 @@
 /resourceserver/bin
 /resourceserver/.settings
 /.gitignore
+/spring-security-jwt

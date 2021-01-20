@@ -18,7 +18,6 @@ public class JwtConverter extends DefaultAccessTokenConverter implements JwtAcce
 		converter.setAccessTokenConverter(this);		
 	}
 	
-	@Override
 	public OAuth2Authentication extracAuthentication(Map<String,?> map) {
 		OAuth2Authentication authentication=super.extractAuthentication(map);
 		AccessTokenMapper accessTokenMapper=new AccessTokenMapper();
